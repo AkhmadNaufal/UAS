@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title><?php echo $title ?></title>
+  <title>Login - Naufal UNIB News</title>
   <!-- icon -->
   <link rel="shortcut icon" type="image/png" href="<?php echo base_url() ?>/assets/images/icon-javawebmedia.png">
   <!-- CKEDITOR CSS -->
